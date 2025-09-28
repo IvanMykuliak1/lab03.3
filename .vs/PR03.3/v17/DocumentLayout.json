@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imyku\\Desktop\\Student\\PR03.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2056F4FC-E906-47BE-A84C-05CDBA219BA2}|PR03.3\\PR03.3.vcxproj|C:\\Users\\imyku\\Desktop\\Student\\PR03.3\\PR03.3\\PR03.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2056F4FC-E906-47BE-A84C-05CDBA219BA2}|PR03.3\\PR03.3.vcxproj|solutionrelative:PR03.3\\PR03.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR03.3.cpp",
+              "DocumentMoniker": "C:\\Users\\imyku\\Desktop\\Student\\PR03.3\\PR03.3\\PR03.3.cpp",
+              "RelativeDocumentMoniker": "PR03.3\\PR03.3.cpp",
+              "ToolTip": "C:\\Users\\imyku\\Desktop\\Student\\PR03.3\\PR03.3\\PR03.3.cpp",
+              "RelativeToolTip": "PR03.3\\PR03.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T16:48:58.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
