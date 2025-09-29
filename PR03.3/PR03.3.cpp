@@ -3,6 +3,7 @@
 // Лабораторна робота № 3.3
 // Розгалуження, задане графіком функції.
 // Варіант 18
+
 #include <iostream>
 #include <cmath>
 
@@ -33,8 +34,8 @@ int main() {
 
         y = k * (x - 2 * R2) - R2;
     }
-    else if (x > 6)
-        y = 0;
+    else //gjg
+        y = -1;
 
     cout << "y = " << y << endl;
 
